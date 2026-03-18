@@ -19,10 +19,11 @@ This is the IMPLEMENTATION OF DIGITALIZED ENROLLMENT SYSTEM AT ASIAN INSTITUE OF
 to run the system, simply install the files then, drag and drop the files to add a new project in NetBeanse IDE to
 see and access the system.
 
-** The credentials for the admin login is 
+** The credentials for the admin login is **
 
         User: Admin
         Pass: admin12345
+        
 *********************************************
 
 2025-2026
