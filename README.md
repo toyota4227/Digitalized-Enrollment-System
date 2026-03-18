@@ -3,6 +3,7 @@ Digitalized Enrollment System for Asian Institute of Computer Studies
 
 
 MADE BY
+
 PINEDA , BLAKE.
 
 NARIO , VENICE.
@@ -19,6 +20,7 @@ to run the system, simply install the files then, drag and drop the files to add
 see and access the system.
 
 ** The credentials for the admin login is 
+
         User: Admin
         Pass: admin12345
 *********************************************
