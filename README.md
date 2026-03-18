@@ -14,7 +14,7 @@ DALMAN, WINX VALDEMIER.
 
 DILAG, RIKIEL.
 
-This is the IMPLEMENTATION OF DIGITALIZED ENROLLMENT SYSTEM AT ASIAN INSTITUE OF COMPUTER STUDIES - BACOOR
+This is the IMPLEMENTATION OF DIGITALIZED ENROLLMENT SYSTEM AT ASIAN INSTITUTE OF COMPUTER STUDIES - BACOOR
 
 to run the system, simply install the files then, drag and drop the files to add a new project in NetBeanse IDE to
 see and access the system.
