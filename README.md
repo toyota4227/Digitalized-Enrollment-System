@@ -16,8 +16,14 @@ DILAG, RIKIEL.
 
 This is the IMPLEMENTATION OF DIGITALIZED ENROLLMENT SYSTEM AT ASIAN INSTITUTE OF COMPUTER STUDIES - BACOOR
 
-to run the system, simply install the "Enrollment System" folder, then drag and drop the files to add a new project in NetBeanse IDE to
-see and access the system.
+to run the system, 
+1. Install the "Enrollment System" folder.
+
+2. Extract the "Enrollment System" folder.
+
+3. Drag and drop the extracted "Enrollment System" folder into the NetBeans projects folder.
+
+4. Open the project inside NetBeans IDE and run the program.
 
 ** The credentials for the admin login is **
 
